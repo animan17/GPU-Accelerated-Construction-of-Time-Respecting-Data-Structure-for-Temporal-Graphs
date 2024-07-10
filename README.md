@@ -10,7 +10,8 @@
 For any official queries or verifications, please contact: **Prof. T.V. Kalyan**, [Kalyantv@iitrpr.ac.in](mailto:Kalyantv@iitrpr.ac.in)
 
 ## Proof of Internship
-![image](https://github.com/animan17/GPU-Accelerated-Construction-of-Time-Respecting-Data-Structure-for-Temporal-Graphs/assets/143376315/fab8678d-14df-4ca4-ba2f-fd3bec5e878a)
+![image](https://github.com/animan17/GPU-Accelerated-Construction-of-Time-Respecting-Data-Structure-for-Temporal-Graphs/assets/143376315/93284de1-858d-4d36-a69c-cf94866155af)
+
 
 ## Paper Submitted
 ![image](https://github.com/animan17/GPU-Accelerated-Construction-of-Time-Respecting-Data-Structure-for-Temporal-Graphs/blob/main/Paper-Abstract.png)
